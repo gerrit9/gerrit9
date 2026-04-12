@@ -1,5 +1,18 @@
 ## Hi there 👋
 Im Gerrit Kloek, i have completed my CIS Degree at the University of Louisville which specializes in data analytics. The portfolio  will summarize what i did throughout class. 
+
+Resume and Cover Letter
+
+Skills:
+
+Business and System Analysis:
+
+Database Design and Applications:
+
+Programming Skills:
+
+References:
+
 <!--
 **gerrit9/gerrit9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
