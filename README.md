@@ -48,6 +48,15 @@ Database Design and Applications:
 
 References:
 
+Jozef Zurada (CIS Professor)
+
+Department of Information Systems, Analytics, and Operations
+
+University of Louisville
+
+Email: jozef.aurada@louisville.edu (preferred)
+
+Phone:  (502) 417-1253
 <!--
 **gerrit9/gerrit9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
