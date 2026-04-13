@@ -65,7 +65,7 @@ Other Programming Skills:
 
  [CIS 199 Program 2](Program2/Program2/Form1.cs)
 
- [CIS 199 Lab 7]()
+ [CIS 199 Lab 7](Lab7/Lab7/Program.cs)
 
  About Me:
 
