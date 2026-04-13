@@ -7,17 +7,17 @@ Skills:
 
 Programming Skills:
 
-C# 
+[C#]()
 
-HTML
+[HTML]()
 
 [Python](Program3.ipynb)
 
 Databases and related software:		
 
-SQL
+[SQL]()
 
-Weka
+[Weka](indiv-project3.exp)
 
 Development Environment:
 
