@@ -11,7 +11,7 @@ C#
 
 HTML
 
-Python
+[Python](Program3.ipynb)
 
 Databases and related software:		
 
@@ -32,7 +32,14 @@ Office Tools:
 Microsoft Office Suite(Word,Excel,Powerpoint)
 
 Business and System Analysis:
+
 [Program 4](Prog4.ipynb)
+
+[Program 3](Program3.ipynb)
+
+[Standardized Data](heart-standardize.arff)
+
+[Project 3 Experiment](indiv-project3.exp)
 
 Database Design and Applications:
 
