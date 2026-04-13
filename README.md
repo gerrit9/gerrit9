@@ -5,7 +5,7 @@ Resume and Cover Letter:
 
 Skills:
 
-Programming Skills:
+Programming Languages:
 
 C#
 
