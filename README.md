@@ -5,6 +5,7 @@ Resume and Cover Letter:
 
 [Cover Letter]()
 
+[Resume]()
 
 Skills:
 
