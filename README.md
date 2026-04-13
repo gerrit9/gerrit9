@@ -3,6 +3,9 @@ Im Gerrit Kloek, i have completed my CIS Degree at the University of Louisville 
 
 Resume and Cover Letter:
 
+[Cover Letter]()
+
+
 Skills:
 
 Programming Languages:
@@ -56,6 +59,14 @@ Database Design and Applications:
 [CIS 420 Project Management Plan]()
 
 [Case Study 3- Subway]()
+
+Other Programming Skills:
+
+ [CIS 199 Program 2]()
+
+ [CIS 199 Lab 7]()
+
+ 
 
 References:
 
