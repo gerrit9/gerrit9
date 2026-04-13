@@ -50,6 +50,7 @@ The Work Below is comprised of my time at Uofl and how I used Weka and Python to
 [Project 3 Experiment](indiv-project3.exp)
 
 Database Design and Applications:
+
 This consists of my time both working on databases in the form of SQL and my work on projects and Case Studies throughout my time at Uofl. 
 
 [CIS 310 Assignment 8](https://github.com/gerrit9/gerrit9/blob/5326805e0d4301a4b0fb9a4b3f4d4d980a08ca09/CIS%20310%20A8_Gerrit_Kloek.sql)
