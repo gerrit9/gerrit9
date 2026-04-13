@@ -3,9 +3,9 @@ Im Gerrit Kloek, i have completed my CIS Degree at the University of Louisville 
 
 Resume and Cover Letter:
 
-[Cover Letter]()
+[Cover Letter](https://github.com/gerrit9/gerrit9/blob/81362640e771f0a6350d31708396d62887d196d9/Cover%20Letter.docx)
 
-[Resume]()
+[Resume](Gerrit_P_Kloek_Resume.docx)
 
 Skills:
 
