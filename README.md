@@ -4,12 +4,27 @@ Im Gerrit Kloek, i have completed my CIS Degree at the University of Louisville 
 Resume and Cover Letter
 
 Skills:
+Programming Skills:
+C# 
+HTML
+Python
 
+Databases and related software:
+SQL
+Weka
+
+Development Environment:
+Visual Studio
+
+Project Management tools:
+Wix
+
+Office Tools:
+Microsoft Office Suite(Word,Excel,Powerpoint)
 Business and System Analysis:
 
 Database Design and Applications:
 
-Programming Skills:
 
 References:
 
