@@ -32,7 +32,7 @@ Office Tools:
 Microsoft Office Suite(Word,Excel,Powerpoint)
 
 Business and System Analysis:
-[Program 4](prog4.ipynb)
+[Program 4](Prog4.ipynb)
 
 Database Design and Applications:
 
