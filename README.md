@@ -54,7 +54,7 @@ Database Design and Applications:
 
 [CIS 310 Assignment 10](https://github.com/gerrit9/gerrit9/blob/c2db5d65653d77615e96eef730976faa09538f48/CIS%20310%20A10_Gerrit_Kloek.sql)
 
-[CIS 310 Exercise 9]()
+[CIS 310 Exercise 9](https://github.com/gerrit9/gerrit9/blob/3f1dca0fac05038413793881340a2fe10c9985f2/CIS%20310%20E9%20Individual_Gerrit_Kloek.sql)
 
 [CIS 420 Project Management Plan]()
 
