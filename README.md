@@ -1,5 +1,5 @@
-## Hi there 👋
-Im Gerrit Kloek, i have completed my CIS Degree at the University of Louisville which specializes in data analytics. The portfolio  will summarize what i did throughout class. 
+
+Im Gerrit Kloek, i have completed my CIS Degree at the University of Louisville which specializes in data analytics. The portfolio  will be much of my work throughout my college years and beyond them. The portfolio showcases the projects and work i've done throughout my time at University Of Louisville.
 
 Resume and Cover Letter:
 
