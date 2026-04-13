@@ -67,7 +67,9 @@ Other Programming Skills:
 
  [CIS 199 Lab 7]()
 
- 
+ About Me:
+
+ My Name is Gerrit Kloek and I am from Bucker, KY and decided to  go to the University of Louisville. I am Set to Graduate in May of 2026 and i am currently looking for an entry  level position to start my career. At first i Wasn't entirely sure on what i was going to major in and decided on a major early that i ultimately regreted, once i took classes in CIS i decided that i wanted to pursue a Career in CIS instead. I decided to focus on the Data Analytics Track of CIS because even prior to CIS i already had an interest in Computers and Technology, I also had an interest in finding hidden connections in data and statistics, as well as finding Trends among Data. 
 
 References:
 
