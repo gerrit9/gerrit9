@@ -49,7 +49,7 @@ Business and System Analysis:
 
 Database Design and Applications:
 
-[CIS 310 Assignment 8]()
+[CIS 310 Assignment 8](https://github.com/gerrit9/gerrit9/blob/5326805e0d4301a4b0fb9a4b3f4d4d980a08ca09/CIS%20310%20A8_Gerrit_Kloek.sql)
 
 [CIS 310 Assignment 9](https://github.com/gerrit9/gerrit9/blob/ab1a525dfaacc918b4d96b769599583f1ee505d0/CIS%20310%20A9_Gerrit_Kloek.sql)
 
