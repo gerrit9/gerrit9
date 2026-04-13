@@ -45,11 +45,11 @@ Business and System Analysis:
 
 Database Design and Applications:
 
-[CIS 310 Assignment 7]()
+[CIS 310 Assignment 8]()
 
-[CIS 310 Assignment 9]()
+[CIS 310 Assignment 9](CIS 310 A9_Gerrit_Kloek.sql)
 
-[CIS 310 Assignment 10]()
+[CIS 310 Assignment 10](CIS 310 A10_Gerrit_kloek.sql)
 
 [CIS 310 Exercise 9]()
 
