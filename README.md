@@ -17,9 +17,9 @@ Java
 
 Databases and related software:		
 
-[SQL]()
+SQL
 
-[Weka](indiv-project3.exp)
+Weka
 
 Development Environment:
 
