@@ -59,7 +59,7 @@ Database Design and Applications:
 
 [CIS 420 Project Management Plan]()
 
-[Case Study 3- Subway]()
+[Case Study 3- Subway](https://github.com/gerrit9/gerrit9/blob/6da9fe037256de50a01cd5ea1f0b873104e0a87c/Gerrit%20Kloek-Subway-Case%20Study.docx)
 
 Other Programming Skills:
 
