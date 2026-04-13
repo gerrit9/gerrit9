@@ -47,7 +47,7 @@ Database Design and Applications:
 
 [CIS 310 Assignment 8]()
 
-[CIS 310 Assignment 9](CIS 310 A9_Gerrit_Kloek.sql)
+[CIS 310 Assignment 9](https://github.com/gerrit9/gerrit9/blob/ab1a525dfaacc918b4d96b769599583f1ee505d0/CIS%20310%20A9_Gerrit_Kloek.sql)
 
 [CIS 310 Assignment 10](https://github.com/gerrit9/gerrit9/blob/c2db5d65653d77615e96eef730976faa09538f48/CIS%20310%20A10_Gerrit_Kloek.sql)
 
