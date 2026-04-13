@@ -7,11 +7,11 @@ Skills:
 
 Programming Skills:
 
-[C#]()
+C#
 
-[HTML]()
+HTML
 
-[Python](Program3.ipynb)
+Python
 
 Java
 
@@ -45,6 +45,17 @@ Business and System Analysis:
 
 Database Design and Applications:
 
+[CIS 310 Assignment 7]()
+
+[CIS 310 Assignment 9]()
+
+[CIS 310 Assignment 10]()
+
+[CIS 310 Exercise 9]()
+
+[CIS 420 Project Management Plan]()
+
+[Case Study 3- Subway]()
 
 References:
 
@@ -57,6 +68,15 @@ University of Louisville
 Email: jozef.aurada@louisville.edu (preferred)
 
 Phone:  (502) 417-1253
+
+Kyle Casson (CIS Professor)
+
+Department of Information Systems, Analytics, and Operations
+
+University of Louisville
+
+Phone: 502-931-7807
+Email: kacass07@louisville.edu
 <!--
 **gerrit9/gerrit9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
