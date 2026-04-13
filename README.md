@@ -67,7 +67,7 @@ This consists of my time both working on databases in the form of SQL and my wor
 
 Other Programming Skills:
 
-This Consists of other Programming work i did that was unrelated to SQL or Python but Still very important for my time at Uofl. 
+This Consists of other Programming work i did that was unrelated to SQL or Python but Still very important for my time at Uofl. this contains some of The C#  Programs i worked on over my time at the University. 
 
  [CIS 199 Program 2](Program2/Program2/Form1.cs)
 
