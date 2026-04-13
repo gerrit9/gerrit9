@@ -39,6 +39,8 @@ Microsoft Office Suite(Word,Excel,Powerpoint)
 
 Business and System Analysis:
 
+The Work Below is comprised of my time at Uofl and how I used Weka and Python to Conduct Data Analysis and Write Code related to it. Over the course of my time at Uofl I learned how to make programs in python and convert Data into more digestible Formats with Weka. 
+
 [Program 4](Prog4.ipynb)
 
 [Program 3](Program3.ipynb)
@@ -48,6 +50,7 @@ Business and System Analysis:
 [Project 3 Experiment](indiv-project3.exp)
 
 Database Design and Applications:
+This consists of my time both working on databases in the form of SQL and my work on projects and Case Studies throughout my time at Uofl. 
 
 [CIS 310 Assignment 8](https://github.com/gerrit9/gerrit9/blob/5326805e0d4301a4b0fb9a4b3f4d4d980a08ca09/CIS%20310%20A8_Gerrit_Kloek.sql)
 
@@ -62,6 +65,8 @@ Database Design and Applications:
 [Case Study 3- Subway](https://github.com/gerrit9/gerrit9/blob/6da9fe037256de50a01cd5ea1f0b873104e0a87c/Gerrit%20Kloek-Subway-Case%20Study.docx)
 
 Other Programming Skills:
+
+This Consists of other Programming work i did that was unrelated to SQL or Python but Still very important for my time at Uofl. 
 
  [CIS 199 Program 2](Program2/Program2/Form1.cs)
 
